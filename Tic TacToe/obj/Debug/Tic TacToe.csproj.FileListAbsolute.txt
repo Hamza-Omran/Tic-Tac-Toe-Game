@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\Tic TacToe\Tic TacToe\bin\Debug\Tic TacToe.exe.config
+C:\Users\dell\source\repos\Tic TacToe\Tic TacToe\bin\Debug\Tic TacToe.exe
+C:\Users\dell\source\repos\Tic TacToe\Tic TacToe\bin\Debug\Tic TacToe.pdb
+C:\Users\dell\source\repos\Tic TacToe\Tic TacToe\obj\Debug\Tic TacToe.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Tic TacToe\Tic TacToe\obj\Debug\Tic_TacToe.Properties.Resources.resources
+C:\Users\dell\source\repos\Tic TacToe\Tic TacToe\obj\Debug\Tic TacToe.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Tic TacToe\Tic TacToe\obj\Debug\Tic TacToe.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Tic TacToe\Tic TacToe\obj\Debug\Tic TacToe.exe
+C:\Users\dell\source\repos\Tic TacToe\Tic TacToe\obj\Debug\Tic TacToe.pdb
+C:\Users\dell\source\repos\Tic TacToe\Tic TacToe\obj\Debug\Tic_TacToe.MainScreen.resources
